@@ -8,5 +8,5 @@ The question app has four screens, three of those are questions screens and one 
 
 # Questions screens:
 first question<br>
-<img src=https://github.com/EAbeier/QuestionAppProject/blob/main/readme_images/screen1.jpg alt="First question screen" width="200" height="100">
+<img src=https://github.com/EAbeier/QuestionAppProject/blob/main/readme_images/screen1.jpg alt="First question screen" width="300" height="150">
 
