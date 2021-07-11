@@ -10,30 +10,30 @@ class _PerguntaAppState extends State<PerguntaApp> {
 
   final _questions = const [
     {
-      'text': 'Qual é a sua cor favorita?',
+      'text': 'Wich is your favorite color?',
       'answers': [
-        {'text': 'Preto', 'points': 10},
-        {'text': 'Vermelho', 'points': 5},
-        {'text': 'Amarelo', 'points': 3},
-        {'text': 'Azul', 'points': 1},
+        {'text': 'Black', 'points': 10},
+        {'text': 'Red', 'points': 5},
+        {'text': 'Yellow', 'points': 3},
+        {'text': 'Blue', 'points': 1},
       ]
     },
     {
-      'text': 'Qual é a seu animal favorito?',
+      'text': 'Wich is your favorite animal?',
       'answers': [
-        {'text': 'Cachorro', 'points': 10},
-        {'text': 'Gato', 'points': 5},
-        {'text': 'Leão', 'points': 3},
-        {'text': 'Coelho', 'points': 1},
+        {'text': 'Dog', 'points': 10},
+        {'text': 'Cat', 'points': 5},
+        {'text': 'Lion', 'points': 3},
+        {'text': 'Rabit', 'points': 1},
       ]
     },
     {
-      'text': 'Qual é a seu instrutor favorito?',
+      'text': 'Wich is your favorite hollywood actor?',
       'answers': [
-        {'text': 'Maria', 'points': 10},
-        {'text': 'João', 'points': 5},
-        {'text': 'Leo', 'points': 3},
-        {'text': 'Pedro', 'points': 1},
+        {'text': 'Tom Hanks', 'points': 10},
+        {'text': 'Dwayne Johnson', 'points': 5},
+        {'text': 'Leonardo DiCaprio', 'points': 3},
+        {'text': 'Robert Downey Jr.', 'points': 1},
       ]
     }
   ];
